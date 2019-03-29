@@ -1,0 +1,14 @@
+.listItem {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  position: relative;
+
+  .date {
+    color: #ccc;
+    font-size: 14px;
+    position: absolute;
+    bottom: 2px;
+    right: 5px;
+  }
+}
